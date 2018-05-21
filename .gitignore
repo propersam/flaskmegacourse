@@ -1,2 +1,7 @@
+# Not staging My virtual environment
+# Folder
 venv/
+
+# Removing database file 
+# from commit
 app.db
